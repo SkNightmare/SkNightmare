@@ -1,6 +1,17 @@
+## Infrastrucure Creator And Maintainer
+<p> 
+Network Infrastructure Creator And Maintainer
+</p>
+<p>
+Hardware Infrastructure Creator And Maintainer
+</p>
+<P>
+Program Creator And Maintainer
+</p>
 
-## Technologies
 
+
+## Programation
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
@@ -14,6 +25,7 @@
 </p>
 
 
+
 <p align="center">
   <strong>Contribution number</strong>
 </p>
@@ -25,5 +37,5 @@
 ---
 
 <p align="center">
-  <sub>Autodidact developer — learning by building real projects.</sub>
+  <sub>Autodidact developer — learning by building projects.</sub>
 </p>
