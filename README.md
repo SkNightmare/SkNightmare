@@ -27,10 +27,10 @@ Program Creator And Maintainer
 
 
 <p align="center">
-  <strong>Contribution number</strong>
+  <strong>Profile Seen Number</strong>
 </p>
 <p align="center">
-  <img src="https://proxy.jcc74.com:821/" alt="GitHub contribution counter" />
+  <img src="https://count.getloli.com/@GithubSknightmare?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="GitHub contribution counter" />
 </p>
 
 
